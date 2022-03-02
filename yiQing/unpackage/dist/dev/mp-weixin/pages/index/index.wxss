@@ -1,0 +1,5 @@
+
+.status_bar {
+      bottom: 80rpx;
+}
+

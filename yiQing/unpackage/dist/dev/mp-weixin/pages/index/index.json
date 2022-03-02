@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "全国疫情实时大数据报告",
+  "usingComponents": {
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
+  }
+}

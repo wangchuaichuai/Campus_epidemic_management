@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/tabbar/tabbar-2/tabbar-2",
+    "pages/register/register",
+    "pages/qianxi/qianxi",
+    "pages/ucenter/about_us",
+    "pages/rumor/rumor",
+    "pages/community/community",
+    "pages/community/map"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#39b54a",
+    "navigationBarTitleText": "Color UI",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#66ccff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "selectedIconPath": "static/tabBar/indexS.png",
+        "iconPath": "static/tabBar/index.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/register/register",
+        "selectedIconPath": "static/tabBar/tubiaoS.png",
+        "iconPath": "static/tabBar/tubiao.png",
+        "text": "登记"
+      },
+      {
+        "pagePath": "pages/qianxi/qianxi",
+        "selectedIconPath": "static/tabBar/pluginS.png",
+        "iconPath": "static/tabBar/plugin.png",
+        "text": "迁徙"
+      }
+    ]
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

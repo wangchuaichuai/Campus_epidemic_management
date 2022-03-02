@@ -1,0 +1,91 @@
+
+.uni-collapse-cell.data-v-8f47561c {
+		flex-direction: column;
+		border-color: #e5e5e5;
+		border-bottom-width: 1px;
+		border-bottom-style: solid;
+}
+.uni-collapse-cell--hover.data-v-8f47561c {
+		background-color: #f1f1f1;
+}
+.uni-collapse-cell--open.data-v-8f47561c {
+		background-color: #f1f1f1;
+}
+.uni-collapse-cell--disabled.data-v-8f47561c {
+		background-color: #f1f1f1;
+		/* opacity: 0.3;
+ */
+}
+.uni-collapse-cell--hide.data-v-8f47561c {
+		height: 48px;
+}
+.uni-collapse-cell--animation.data-v-8f47561c {
+		/* transition: transform 0.3s ease;
+ */
+		transition-property: -webkit-transform;
+		transition-property: transform;
+		transition-property: transform, -webkit-transform;
+		transition-duration: 0.3s;
+		transition-timing-function: ease;
+}
+.uni-collapse-cell__title.data-v-8f47561c {
+		padding: 12px 12px;
+		position: relative;
+
+		display: flex;
+		width: 100%;
+		box-sizing: border-box;
+
+		height: 48px;
+		line-height: 24px;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+}
+.uni-collapse-cell__title.data-v-8f47561c:active {
+		background-color: #f1f1f1;
+}
+.uni-collapse-cell__title-img.data-v-8f47561c {
+		height: 52rpx;
+		width: 52rpx;
+		margin-right: 10px;
+}
+.uni-collapse-cell__title-arrow.data-v-8f47561c {
+		width: 20px;
+		height: 20px;
+		-webkit-transform: rotate(0deg);
+		        transform: rotate(0deg);
+		-webkit-transform-origin: center center;
+		        transform-origin: center center;
+}
+.uni-collapse-cell__title-arrow-active.data-v-8f47561c {
+		-webkit-transform: rotate(180deg);
+		        transform: rotate(180deg);
+}
+.uni-collapse-cell__title-text.data-v-8f47561c {
+		flex: 1;
+		font-size: 28rpx;
+
+		white-space: nowrap;
+		color: inherit;
+
+
+
+
+		overflow: hidden;
+		text-overflow: ellipsis;
+}
+.uni-collapse-cell__content.data-v-8f47561c {
+		overflow: hidden;
+}
+.uni-collapse-cell__wrapper.data-v-8f47561c {
+
+		display: flex;
+
+		flex-direction: column;
+}
+.uni-collapse-cell__content--hide.data-v-8f47561c {
+		height: 0px;
+		line-height: 0px;
+}
+

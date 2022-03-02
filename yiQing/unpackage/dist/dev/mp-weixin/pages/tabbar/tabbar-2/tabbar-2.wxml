@@ -1,0 +1,1 @@
+<view class="content data-v-23ec5197"><map id="maps" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}" scale="{{scale}}" class="data-v-23ec5197"></map></view>
